@@ -6,7 +6,6 @@
 h1 {
   font-size: 4rem;
   color: white;
-
 }
 button {
   font: size 1.7rem;
@@ -62,13 +61,14 @@ li {
 .text {
   flex: 1;
 }
-.delete-button, .move-button{
-    padding:8px 12px;
-    font-size: 1.4rem;
+.delete-button,
+.move-button {
+  padding: 8px 12px;
+  font-size: 1.4rem;
 }
-.move-button{
-    margin: 5px;
+.move-button {
+  margin: 5px;
 }
-*{
-    background-color: rgb(41, 152, 152);
+* {
+  background-color: rgb(41, 152, 152);
 }
